@@ -160,3 +160,6 @@ streamlit run app/streamlit_app.py
 ## 4. 技术架构
 ![alt text](image/image002.png)
 ![alt text](image/image.png)
+
+## 5.视频讲解链接
+https://www.bilibili.com/video/BV1hqouYZEys/?vd_source=d144bca9d09669113043bbcceb93e861
