@@ -1,0 +1,27 @@
+apis:
+  weather:
+    api_key: "<YOUR_WEATHER_API_KEY>"
+    base_url: https://api.seniverse.com/v3/weather/now.json
+domains:
+  ecommerce:
+    enabled: true
+  education:
+    enabled: true
+logging:
+  file: logs/chatbot.log
+  level: INFO
+models:
+  deepseek:
+    api_base: http://localhost:11434/api/chat
+    max_tokens: 2048
+    model_name: MFDoom/deepseek-r1-tool-calling:8b
+    temperature: 0.7
+  qwen:
+    api_base: http://localhost:11434/api/chat
+    max_tokens: 2048
+    model_name: qwen2.5:7b
+    temperature: 0.7
+voice:
+  model_path: vosk-model-cn-0.22
+  sample_rate: 16000
+  tts_engine: local

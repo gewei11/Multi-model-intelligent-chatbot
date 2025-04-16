@@ -1,0 +1,6 @@
+
+[server]
+fileWatcherType = "none"
+
+[global]
+developmentMode = false

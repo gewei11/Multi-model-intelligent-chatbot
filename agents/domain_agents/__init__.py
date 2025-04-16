@@ -1,0 +1,3 @@
+# 导出领域Agent
+from agents.domain_agents.education_agent import EducationAgent
+from agents.domain_agents.ecommerce_agent import EcommerceAgent
