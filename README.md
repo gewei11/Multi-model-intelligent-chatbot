@@ -36,7 +36,7 @@
 ### 2.2 依赖安装
 1. 克隆或下载项目代码到本地：
    ```bash
-   git clone <项目仓库地址>
+   git clone https://github.com/gewei11/Multi-model-intelligent-chatbot
    ```
 2. 安装依赖包：
    ```bash
