@@ -115,7 +115,7 @@ streamlit run app/streamlit_app.py
 ```
 启动后，应用将在本地运行，通常可以通过浏览器访问 [http://localhost:8501](http://localhost:8501) 打开应用界面。  
 在命令行看到以下说明成功启动
-![alt text](image/image001.png)
+![alt text](/image/image001.png)
 
 ## 3. 功能使用说明
 
